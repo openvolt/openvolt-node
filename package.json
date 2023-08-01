@@ -1,0 +1,32 @@
+{
+  "name": "openvolt",
+  "version": "1.0.0",
+  "description": "Openvolt API wrapper",
+  "keywords": [
+    "openvolt",
+    "smart meter",
+    "smart-meter",
+    "api"
+  ],
+  "homepage": "https://github.com/openvolt/openvolt-node",
+  "author": "Openvolt <support@openvolt.com> (https://openvolt.com/)",
+  "contributors": [
+    "Don O'Leary <don@openvolt.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/openvolt/openvolt-node.git"
+  },
+  "bugs": "https://github.com/openvolt/openvolt-node/issues",
+  "engines": {
+    "node": ">=12.*"
+  },
+  "main": "openvolt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
