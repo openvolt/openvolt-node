@@ -17,7 +17,9 @@
     "type": "git",
     "url": "git://github.com/openvolt/openvolt-node.git"
   },
-  "bugs": "https://github.com/openvolt/openvolt-node/issues",
+  "bugs": {
+    "url": "https://github.com/openvolt/openvolt-node/issues"
+  },
   "engines": {
     "node": ">=12.*"
   },
